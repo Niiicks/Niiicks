@@ -21,7 +21,7 @@ Lover of Technology and coding  :purple_heart:
 
 ### About Me 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Niiicks)](https://github.com/Niiicks)
+[![Github Badge](https://img.shields.io/badge/-Github-808000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Niiicks)](https://github.com/Niiicks)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-neuwirt/)](https://www.linkedin.com/in/nicolas-neuwirt/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neuwirt13@gmail.com)](mailto:neuwirt13@gmail.com)<br>
 
