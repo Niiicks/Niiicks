@@ -13,7 +13,7 @@ Lover of Technology and coding  :purple_heart:
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow.svg?&style=plastic&logo=javascript&logoColor=white)
 ![VueJS Badge](https://img.shields.io/badge/Vue.js-35495E?&style=plastic&logo=bootstrap&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=plastic&logo=bootstrap&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=plastic&logo=typescript&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?&style=plastic&logo=bootstrap&logoColor=white)
 
 ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=plastic&logo=java&logoColor=white?logoWidth=40)
 ![Docker Badge](https://img.shields.io/badge/Docker-0FAAFF.svg?&style=plastic&logo=docker&logoColor=white)
