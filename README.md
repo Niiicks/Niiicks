@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Welcome!</h1><img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350"/>
 
 ## I'm Nicolas Neuwirt Oliveira!
