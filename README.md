@@ -11,7 +11,7 @@ Lover of Technology and coding  :purple_heart:
 ![HTML Badge](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=plastic&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow.svg?&style=plastic&logo=javascript&logoColor=white)
-![Angular Badge](https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=plastic&logo=angular&logoColor=white?color=blue)
+![VueJS Badge](https://img.shields.io/badge/Vue.js-35495E?&style=plastic&logo=bootstrap&logoColor=white)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=plastic&logo=bootstrap&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=plastic&logo=typescript&logoColor=white)
 
